@@ -92,6 +92,12 @@
       <version>${webjars-jquery.version}</version>
     </dependency>
     <dependency>
+	    <groupId>org.spockframework</groupId>
+		<artifactId>spock-spring</artifactId>
+		<version>1.1-groovy-2.4</version>
+		<scope>test</scope>
+	</dependency>
+    <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>jquery-ui</artifactId>
       <version>${webjars-jquery-ui.version}</version>
