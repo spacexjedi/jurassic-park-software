@@ -147,7 +147,8 @@ utilize sua IDE
 
 Período de pesquisa e leituras [não contabilizado em horas exatas]
 
-- Última semana
+- Última semana  
+
 | QUI | SEX | SAB | SEG | 
 |-----|-----|-----|-----|
 | 6hs | 8hs | 8hs | 8hs | 
