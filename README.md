@@ -69,10 +69,14 @@ Foi utilizado um template de spring-boot disponivel para desenvolvimento com doc
 Os créditos do template estão associados aos respectivos autores,
 apartir daí eu implementei as demais funcões.
 
-## Condiderações
-Como as decisões sobre o sistema cabiam apenas a mim,
-achei mais importante aprender o processo de desenvolvimento e tecnologias.
-Se fosse o pedido de um cliente eu certamente teria seguindo regras de negócios.
+## Estudo
+
+Detalhamento do estudo, pesquisas e livros lidos durante a disciplina 
+ (https://github.com/spacexjedi/software_eng_101)  
+
+## Condiderações 
+Na pasta screenshoots é possível ver as imagens como ficaram TODOS os sistemas nas branchs que funcionavam,
+embora agora haja partes quebradas.    
 
 ## Documentação 
 Há uma pasta chamada docs que contém screenshots dos sistemas anteriores,
@@ -108,10 +112,6 @@ bem como os sketchs do atual.
   
 
 ### :package:  Requisitos para rodar projeto
-
-detalhamento do estudo, pesquisas e livros lidos
-
-![Repo Caderno](https://github.com/spacexjedi/software_eng_101)  
 
 ```
 comandos
